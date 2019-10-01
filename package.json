@@ -1,0 +1,22 @@
+{
+  "name": "ipad_feedback",
+  "version": "1.0.0",
+  "description": "iPad Feedback System with Local Computer at EdLab",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "socket",
+    "p5.js",
+    "node",
+    "saveCanvas"
+  ],
+  "author": "CARLiE YUTONG ZHANG",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
